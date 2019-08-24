@@ -9,3 +9,5 @@ cd simple-vimrc/
 rm -rf /root/.vim*
 
 mv .vim* /root/
+
+rm -rf /tmp/simple-vimrc/
