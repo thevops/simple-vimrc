@@ -11,8 +11,7 @@ set listchars=eol:¶,trail:•,tab:▸\  showbreak=¬\
 set mouse=a
 set nobackup noswapfile nowritebackup undofile undodir=~/.vim/undo undolevels=99999
 set nowrap
-set number
-set scrolloff=999
+set scrolloff=5
 set showcmd
 set showmatch
 set term=xterm-256color
