@@ -10,7 +10,7 @@ set lazyredraw nocursorline ttyfast
 set listchars=eol:¶,trail:•,tab:▸\  showbreak=¬\
 set mouse=a
 set nobackup noswapfile nowritebackup undofile undodir=~/.vim/undo undolevels=99999
-set nowrap
+set wrap
 set scrolloff=5
 set showcmd
 set showmatch
