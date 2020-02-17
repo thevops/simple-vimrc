@@ -6,8 +6,8 @@ git clone https://github.com/vizarch/simple-vimrc
 
 cd simple-vimrc/
 
-rm -rf /root/.vim*
+rm -rf ~/.vim*
 
-mv .vim* /root/
+mv .vim* ~/
 
 rm -rf /tmp/simple-vimrc/
